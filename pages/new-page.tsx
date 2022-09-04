@@ -7,6 +7,9 @@ const NewPage: NextPage = () => {
                 <li>
                     <p>add 1</p>
                 </li>
+                <li>
+                    <p>add 2</p>
+                </li>
             </ul>
         </div>
     )
